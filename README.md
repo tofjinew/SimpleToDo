@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I did not encounter any challenges, as I coded along with the YouTube playlist.
+12.25.2020 **required** and **optional** features implemented 
 
 ## License
 
